@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReadingFromTheStick:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReadingFromTheStick_jar</output-path>
+    <root id="archive" name="ReadingFromTheStick.jar">
+      <element id="module-output" name="ReadingFromTheStick" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/library/javax.json-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/library/amqp-client-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/library/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
